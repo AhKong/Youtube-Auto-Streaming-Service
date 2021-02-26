@@ -27,4 +27,3 @@
 - 커밋 규칙 지키기 
 - 구현 후 리팩토링까지 완료
 - JPA 
-- Spring Security
